@@ -60,7 +60,9 @@ client.on("message", async message => { // defines "message" as our message obje
         message.channel(`\`${mentioned.user.tag}\` has been kicked the moderator ${message.author.tag}, their reason was "${reason}" :hammer:`); // if all goes to plan, it will show success w/ the error they provided in the second parameter!
     }
 
-
+        
+        
+        //The rest is up to you, good luck!
 
 
 }); //end of command handler, commands out of the message event will not function properly
