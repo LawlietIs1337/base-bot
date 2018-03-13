@@ -3,7 +3,7 @@
         -  Please do not resell this code :)
         - Commented so you can learn. 
         - Example bot just for people to build off of.
-        - Feel free to change for your liking, if you are going to use this, feel free to credit me for the base (optional :P
+        - Feel free to change for your liking, if you are going to use this, feel free to credit me for the base (optional of course :P)
 
         Steps to install - 
         Install node.js (look it up)
