@@ -1,7 +1,7 @@
 /*
         Developer/Creator (of Template): Lawliet/Dylan | "Lawloort" @ v3rm
         -  Please do not resell this code :)
-        -  Made in 30 minutes or so (with breaks)
+        -  Made in 20 minutes or so (with breaks)
         - Commented so you can learn. 
         - Example bot just for people to build off of.
         - Feel free to change for your liking, if you are going to use this, feel free to credit me for the base (optional of course :P)
