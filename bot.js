@@ -1,10 +1,11 @@
 /*
         Developer/Creator (of Template): Lawliet/Dylan | "Lawloort" @ v3rm
         -  Please do not resell this code :)
+        -  Made in 30 minutes or so (with breaks)
         - Commented so you can learn. 
         - Example bot just for people to build off of.
         - Feel free to change for your liking, if you are going to use this, feel free to credit me for the base (optional of course :P)
-
+        - I encourage you improve on this, change stuff up, this in no way is intended to be the best possible for advanced users liking, this is a good start for newbies!
         Steps to install - 
         Install node.js (look it up)
         Then go to your Command Prompt and put in "npm install discord.js"
